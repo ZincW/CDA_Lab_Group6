@@ -11,7 +11,8 @@ The code requires Python3 as well as the following python libraries:
 * currency_converter
 
 ## Usage
-## Pre-processing
+
+### Pre-processing
 There are several steps in our pre-processing. To save your time, we provide our processed data and u can download or open it in python from here:
 https://drive.google.com/file/d/1oyD9BAqcXM5sd6J0qctmSXPwdrOHk0Yl/view?usp=sharing
 Using this 'after_normailization.csv', you can running code of SMOTE, white-box, black-box classifers.
@@ -31,7 +32,7 @@ If you want to process data from scratch, you can follow steps here:
 2. running one_hot.py in Visualization part to get `after_one_hot.csv`. The input is `preprocessed_data_for_one_hot.csv` which includes only categorical data. In this code, we apply **one_hot** for all categorical variables. U can also get access to 'after_one_hot.csv' from here: https://drive.google.com/file/d/17JZg2K4WEDtQo0Hi3eCk0-gQElmdhg9D/view?usp=sharing
 3. running normalization.py in SMOTE&Classification part to get our final processed data called 'after_normailization.csv'.
 ### Visualization
-1. Running `preprocess_visulization` to preprocess the original data(`data_for_student_case.csv`) and get the `preprocessed_visdata.csv`.
+1. Running `preprocess_visulization` to preprocess the original data(`data_for_student_case.csv`) and get the `preprocessed_visdata.csv`(you can just download it from: https://drive.google.com/file/d/1K1sSQBBoR0MVNYoHjq9IK3dguK_jJMa4/view?usp=sharing) 
 2. Running `visualization` to see the plots. 
 
 ### SMOTE
