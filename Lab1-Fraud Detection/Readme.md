@@ -38,8 +38,8 @@ If you want to process data from scratch, you can follow steps here:
 1. Running `SMOTE` to see the performance of *Random Forest*, *Logistic Regression* and *Naive Bayes* of SMOTEd and UNSOMTEd data.
 
 ### Classification
-1. Running 'blackbox' in SMOTE&Classification part to see the performance of black-box algorithm that we choose.
-2. Running 'KNN.ipynb' in SMOTE&Classification part to see the performance of black-box algorithm that we choose.
+1. Running `blackbox` in SMOTE&Classification part to see the performance of black-box algorithm that we choose.
+2. Running `KNN.ipynb` in SMOTE&Classification part to see the performance of black-box algorithm that we choose.
    if you want to check our try in neural network, please click neural_network.py
 ### Bonus 
 1. related code can be found in bonus.ipynb
