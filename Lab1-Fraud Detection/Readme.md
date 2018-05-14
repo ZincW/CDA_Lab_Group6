@@ -39,7 +39,9 @@ If you want to process data from scratch, you can follow steps here:
 
 ### Classification
 1. Running 'blackbox' in SMOTE&Classification part to see the performance of black-box algorithm that we choose.
-2. Running 'knn.py' in SMOTE&Classification part to see the performance of black-box algorithm that we choose.
+2. Running 'KNN.ipynb' in SMOTE&Classification part to see the performance of black-box algorithm that we choose.
+   if you want to check our try in neural network, please click neural_network.py
 ### Bonus 
+1. related code can be found in bonus.ipynb
 ### Contact
 If you have any question about code, feel free to contact: Z.Wang-17@student.tudelft.nl
